@@ -1,4 +1,4 @@
-# Agentic RAG Chatbot
+# LLM-Powered Retrieval Chatbot
 
 An Intelligent AI-powered Chatbot using LangChain, RAG, and Multi-Tool Agents
 
