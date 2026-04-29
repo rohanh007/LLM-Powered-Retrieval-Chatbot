@@ -35,7 +35,7 @@ Google Serper API → For web search
 
 ⚡ Installation & Setup
 1. Clone the Repository
-- git clone https://github.com/Lalitdodake/Agentic-Rag-Chatbot.git
+- git clone https://github.com/rohanh007/LLM-Powered-Retrieval-Chatbot.git
 - cd Agentic-Rag-Chatbot
 
 2. Create a Virtual/Conda Environment
